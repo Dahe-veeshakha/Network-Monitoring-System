@@ -1,1 +1,3 @@
-
+"""
+Rich Terminal Dashboard
+"""
